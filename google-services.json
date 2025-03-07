@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736045107937",
+    "project_id": "pokemon-82efd",
+    "storage_bucket": "pokemon-82efd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736045107937:android:e1169fff31b4d0b73045a0",
+        "android_client_info": {
+          "package_name": "com.example.apiaplicacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1m3lwTIIkjhhitF0TLyNjt1UbwsPFSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
